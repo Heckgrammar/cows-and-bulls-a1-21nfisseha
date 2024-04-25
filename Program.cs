@@ -422,7 +422,7 @@ namespace CowsAndBulls
 
 
 
-                Console.WriteLine($"\nWell done! My number was {comp[0]}{comp[1]}{comp[2]}{comp[3]}!");
+                //test Console.WriteLine($"\nWell done! My number was {comp[0]}{comp[1]}{comp[2]}{comp[3]}!");
 
 
 
